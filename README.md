@@ -7,7 +7,7 @@ A simple and responsive Task Manager Web Application built using **HTML**, **CSS
 
 
 ## 📂 GitHub Repository
-
+https://github.com/shoubhyasinha21/Task-Manager-Web-project
 
 ## 📌 Features
 
@@ -59,7 +59,7 @@ This project helped strengthen my understanding of:
 
 **Shoubhya Sinha**
 
-* GitHub: https://github.com/your-username
+* GitHub: https://github.com/shoubhyasinha21/Task-Manager-Web-project
 * LinkedIn: https://linkedin.com/in/your-profile
 
 ## 📄 License
